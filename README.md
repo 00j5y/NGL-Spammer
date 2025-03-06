@@ -33,4 +33,4 @@ py main.py
 
 <h2 align="center">✨ Demo</h2>
 
-![demo]("https://youtu.be/ozfh-LsI3nU.mp4")
+![demo]("https://imgur.com/a/6nxpYsp.gif")
