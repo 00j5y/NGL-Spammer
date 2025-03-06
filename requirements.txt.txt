@@ -1,0 +1,6 @@
+requests
+keyboard
+time
+random
+string
+colorama
