@@ -33,4 +33,4 @@ py main.py
 
 <h2 align="center">✨ Demo</h2>
 
-![demo]("https://imgur.com/a/6nxpYsp.gif")
+<img src="https://imgur.com/a/6nxpYsp.gif" alt="Demo" width="100%">
