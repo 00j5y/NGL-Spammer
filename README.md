@@ -33,4 +33,4 @@ py main.py
 
 <h2 align="center">✨ Demo</h2>
 
-<img src="https://youtu.be/ozfh-LsI3nU" alt="Demo" width="50%">
+<img src="https://youtu.be/ozfh-LsI3nU.mp4" alt="Demo" width="50%">
