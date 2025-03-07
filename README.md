@@ -22,12 +22,12 @@
 git clone https://github.com/00j5y/NGL-Spammer.git
 ```
 
-### 3- Go in the folfer
+### 3- Go in the folder
 ```bash
 cd NGL-Spammer
 ```
 
-### 4- Run a CMD in the folder and download all the libraries
+### 4- Download all the libraries
 ```bash
 pip install -r requirements.txt
 ```
