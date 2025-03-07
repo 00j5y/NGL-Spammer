@@ -7,21 +7,25 @@
 
 <h2 align="center">✨ Download</h2>
 
-### 1- Clone the code in a folder
+### 1- Run a CMD in a folder
+<img src="https://imgur.com/ERcae1L.gif" alt="Bannière" width="100%">
+
+### 2- Clone the code
 ```bash
 git clone https://github.com/00j5y/NGL-Spammer.git
 ```
 
-### 2- Run a CMD in the folder and download all the libraries
-```bash
-pip install -r requirements.txt
-```
-### 2- Go in the folfer
+### 3- Go in the folfer
 ```bash
 cd NGL-Spammer
 ```
 
-### 4- Run the main in the folder/CMD 
+### 4- Run a CMD in the folder and download all the libraries
+```bash
+pip install -r requirements.txt
+```
+
+### 5- Run the main in the folder/CMD 
 ```bash
 py main.py
 ```
