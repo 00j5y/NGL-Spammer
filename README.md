@@ -1,7 +1,7 @@
 # NGL-Spammer
 <img src="https://vaultify.shiin.net/u/25noN" alt="Bannière" width="100%">
 
-<h2 align="center">✨ Requirements</h2>
+<h2 align="center">📋 Requirements</h2>
 
 - Python 3.#
 
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 py main.py
 ```
 
-<h2 align="center">✨ How to use</h2>
+<h2 align="center">⬇️ How to use</h2>
 
 1. Enter the NGL Username  
 2. Enter how many messages you want to send to the user  
@@ -39,6 +39,6 @@ py main.py
    - If you choose yes, you need to put your proxies in `proxies.txt`
 5. Run the code and enjoy!
 
-<h2 align="center">✨ Demo</h2>
+<h2 align="center">🎬 Demo</h2>
 
 *(soon)*
