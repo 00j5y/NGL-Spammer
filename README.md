@@ -16,8 +16,12 @@ git clone https://github.com/00j5y/NGL-Spammer.git
 ```bash
 pip install -r requirements.txt
 ```
+### 2- Go in the folfer
+```bash
+cd NGL-Spammer
+```
 
-### 3- Run the main in the folder/CMD 
+### 4- Run the main in the folder/CMD 
 ```bash
 py main.py
 ```
