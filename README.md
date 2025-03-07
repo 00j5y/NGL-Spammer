@@ -8,7 +8,7 @@
 <h2 align="center">✨ Download</h2>
 
 ### 1- Run a CMD in a folder
-<img src="https://imgur.com/ERcae1L.gif" alt="Bannière" width="100%">
+<img src="https://imgur.com/ERcae1L.gif" alt="Bannière" width="50%">
 
 ### 2- Clone the code
 ```bash
@@ -41,4 +41,4 @@ py main.py
 
 <h2 align="center">✨ Demo</h2>
 
-<img src="https://imgur.com/6nxpYsp.gif" alt="Demo" width="100%">
+<img src="https://imgur.com/W3E3yYv.gif" alt="Demo" width="100%">
