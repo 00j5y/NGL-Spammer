@@ -41,4 +41,4 @@ py main.py
 
 <h2 align="center">✨ Demo</h2>
 
-<img src="https://imgur.com/a/6nxpYsp.gif" alt="Demo" width="100%">
+<img src="https://imgur.com/6nxpYsp.gif" alt="Demo" width="100%">
