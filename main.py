@@ -71,7 +71,6 @@ def main():
             'referrer': '',
         }
 
-
         response = requests.post('https://ngl.link/api/submit', headers=headers, data=data)
         if response.status_code == 200:
             print(f"{Fore.WHITE}[{Fore.GREEN}!{Fore.WHITE}] Message sent, {number-sucess} messages left")
