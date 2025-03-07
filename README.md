@@ -2,10 +2,12 @@
 <img src="https://vaultify.shiin.net/u/25noN" alt="Bannière" width="100%">
 
 <h2 align="center">🔍 Summary</h2>
-- ![📋 Requirements](#https://github.com/00j5y/NGL-Spammer?tab=readme-ov-file#-requirements)
-- ![✨ Download](#https://github.com/00j5y/NGL-Spammer?tab=readme-ov-file#-download)
-- ![⬇️ How to use](#https://github.com/00j5y/NGL-Spammer?tab=readme-ov-file#%EF%B8%8F-how-to-use)
-- ![🎬 Demo](#https://github.com/00j5y/NGL-Spammer?tab=readme-ov-file#-demo)
+
+- [📋 Requirements](#-requirements)
+- [✨ Download](#-download)
+- [⬇️ How to use](#%EF%B8%8F-how-to-use)
+- [🎬 Demo](#-demo)
+
 <h2 align="center">📋 Requirements</h2>
 
 - Python 3.#
