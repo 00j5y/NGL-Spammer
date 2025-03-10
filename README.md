@@ -42,9 +42,9 @@ py main.py
 1. Enter the NGL Username  
 2. Enter how many messages you want to send to the user  
 3. Write your message  
-4. Choose if you want to use proxies (y/n)  *(soon)*
-   - If you choose yes, you need to put your proxies in `proxies.txt`
-5. Run the code and enjoy!
+4. Run the code and enjoy!
+
+I can't add a proxies, every proxy request are declined by NGL so this project is a little bit useless..
 
 <h2 align="center">🎬 Demo</h2>
 
