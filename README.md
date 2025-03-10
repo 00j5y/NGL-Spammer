@@ -44,7 +44,7 @@ py main.py
 3. Write your message  
 4. Run the code and enjoy!
 
-I can't add a proxies, every proxy request are declined by NGL so this project is a little bit useless..
+I can't add a proxies system, every proxy request are declined by NGL so this project is a little bit useless..
 
 <h2 align="center">🎬 Demo</h2>
 
