@@ -48,5 +48,4 @@ I can't add a proxy system, every proxy request is declined by NGL cuz they want
 
 <h2 align="center">🎬 Demo</h2>
 
-[![DEMO NGL](https://img.youtube.com/vi/6sECHpQQcy0/0.jpg)](https://www.youtube.com/watch?v=6sECHpQQcy0)
-
+<a href="https://www.youtube.com/watch?v=6sECHpQQcy0"><img align="center" width=400 src="demo.jpg"></a>
