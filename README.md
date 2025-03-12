@@ -44,8 +44,8 @@ py main.py
 3. Write your message  
 4. Run the code and enjoy!
 
-I can't add a proxies system, every proxy request are declined by NGL so this project is a little bit useless..
+I can't add a proxy system, every proxy request is declined by NGL cuz they want a SSL certificate, so this project is a little bit useless..
 
 <h2 align="center">🎬 Demo</h2>
 
-*(soon)*
+[![DEMO NGL](https://img.youtube.com/vi/Fk0bNPCRTEQ/0.jpg)](https://www.youtube.com/watch?v=Fk0bNPCRTEQ)
