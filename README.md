@@ -1,5 +1,5 @@
 # NGL-Spammer
-<img src="https://github.com/00j5y/00j5y/blob/main/streetready.jpg" alt="Bannière" width="100%">
+<img src="https://github.com/00j5y/00j5y/blob/main/banner.png" alt="Bannière" width="100%">
 
 <h2 align="center">🔍 Summary</h2>
 
