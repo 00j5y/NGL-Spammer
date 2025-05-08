@@ -44,7 +44,7 @@ py main.py
 3. Write your message  
 4. Run the code and enjoy!
 
-I can't add a proxy system, every proxy request is declined by NGL cuz they want a SSL certificate, so this project is a little bit useless..
+For educational use only
 
 <h2 align="center">🎬 Demo</h2>
 
